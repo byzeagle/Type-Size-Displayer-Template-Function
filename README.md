@@ -10,7 +10,7 @@ TYPE macro : Includes all the fundamental types in C++ langauge. It can be provi
 
 Functions intented for client use:
 
-	  display_sizes<>();
+    display_sizes<>();
     null_check();
 
 display_sizes function can be provided with arbitrary number of types:
