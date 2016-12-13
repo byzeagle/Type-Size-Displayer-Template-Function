@@ -4,7 +4,7 @@ This program's purpose is to assist people in finding data sizes occupied by var
 
 # Usage
 
-TYPE macro : Includes all the fundamental types in C++ langauge. It can be provided to display_sizes function as follows:
+TYPES macro includes all the fundamental types in C++ langauge. It can be provided to display_sizes function as follows:
 
     display_sizes<TYPES>();
 
