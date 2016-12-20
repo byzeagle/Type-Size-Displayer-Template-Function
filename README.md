@@ -19,6 +19,8 @@ display_sizes function can be provided with arbitrary number of types:
 
 # Example Output
 
+Please look at main.cpp file under examples directory too see the source code.
+
      --- Arbitrary Type Example --- 
     int                     : 4 bytes | 32 bits
     short int               : 2 bytes | 16 bits
