@@ -17,6 +17,8 @@ display_sizes function can be provided with arbitrary number of types:
 
     display_sizes<int, double, short int, float>();
 
+Program uses C++11 features so compile it with -std=c++11 option enabled.
+
 # Example Output
 
 Please look at main.cpp file under "examples" directory to see the source code.
