@@ -1,5 +1,6 @@
 #ifndef TYPES_H
 #define TYPES_H
+					/*	Author: Ugur Buyukdurak	    */
 
 //Defined Types
 #define TYPES	bool,			        \
