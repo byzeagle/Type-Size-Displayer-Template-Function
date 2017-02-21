@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <type_traits>
 #include "types.h"
+						/*	Author: Ugur Buyukdurak	     */
 
 template <typename T, short int byte = 8>
 void convert_byte_to_bit() {
